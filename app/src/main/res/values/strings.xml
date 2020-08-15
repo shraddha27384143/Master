@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CareerHunt</string>
+    <string name="activity_main_welcome">Welcome to</string>
+    <string name="activity_main_career_hunt">CareerHunt</string>
+    <string name="activity_main_login_option">Please login or signup to continue to use our app.</string>
+    <string name="email_or_phone_no">Email or Phone No</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">or login with</string>
+    <string name="dont_have_acc_reg">Don\'t have an account? Register Now!</string>
+    <string name="facebook_app_id">741991683245936</string>
+    <string name="fb_login_protocol_scheme">fb741991683245936</string>
+    <string name="keygen">Pj8/Pz9FP3Blbj8GHwZTP3s/J0gNCg==</string>
+</resources>
